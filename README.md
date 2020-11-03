@@ -3,3 +3,6 @@
 
 Generating Multiple Module 
 ng g m modulename
+
+
+moduleName--> pascal Case
